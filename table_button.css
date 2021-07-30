@@ -1,10 +1,5 @@
-	<style>
-		table {
-            font: Calibri;
-			border: 3px solid black;
-			border-collapse:collapse;
+<style>
 
-        }
 
 /* Table view header */
 .google-visualization-table-table .gradient,
@@ -12,20 +7,20 @@
         background: lightgray!important;
         color: DarkBlue;
         font-size: 15pt;
-    border: 1px solid black;
-    padding: 2px .35em;
-   text-align: center;
-  height: 50px
+    	border: 1px solid black;
+    	padding: 2px .35em;
+   	text-align: center;
+  	height: 50px
 }
-  
-        td {
-			font-size: 12px;
-            border: 1px solid black;
-			vertical-align: text-top;
-			text-align: left;
-			white-space;
-        }
+ 
+td {
+	font-size: 12px;
+	border: 1px solid black;
+	vertical-align: text-top;
+	text-align: left;
+	white-space;
+}
 		
-		tr:nth-child(even) {background-color: AliceBlue}
+tr:nth-child(even) {background-color: AliceBlue}
 		
-    </style>
+</style>
